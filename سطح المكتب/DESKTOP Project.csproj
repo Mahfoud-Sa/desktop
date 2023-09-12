@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B8E699B9-4FB6-44E4-B4D0-F31B0EFC412E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>سطح_المكتب</RootNamespace>
+    <AssemblyName>سطح المكتب</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DeskTop.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeskTop.Designer.cs">
+      <DependentUpon>DeskTop.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TaskManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaskManager.Designer.cs">
+      <DependentUpon>TaskManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ThisPc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ThisPc.Designer.cs">
+      <DependentUpon>ThisPc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DeskTop.resx">
+      <DependentUpon>DeskTop.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskManager.resx">
+      <DependentUpon>TaskManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ThisPc.resx">
+      <DependentUpon>ThisPc.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chrome_Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sear_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mail_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Turn_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Res_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slee_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sett_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pic_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Use_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Excel_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Exce_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edge_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Word_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calcu_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PoPo_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mspaint_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Contro_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Firo_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\File_Iicon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\battery_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Network_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calen_icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\xoGame.sln" />
+    <None Include="Resources\xd_icon.ico" />
+    <None Include="Resources\Excel_icon.ico" />
+    <None Include="Resources\Access_icon.ico" />
+    <None Include="Resources\bg" />
+    <None Include="Resources\bg-2.jpg" />
+    <None Include="Resources\arrow_icon.ico" />
+    <None Include="Resources\Disk_Icon.ico" />
+    <Content Include="Resources\dogs-4688586_960_720.jpg" />
+    <None Include="Resources\Recycle Bin_icon.ico" />
+    <None Include="Resources\Sing_icon.ico" />
+    <Content Include="Resources\sanke%28test%29.py" />
+    <Content Include="Resources\xo-0,4.py" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

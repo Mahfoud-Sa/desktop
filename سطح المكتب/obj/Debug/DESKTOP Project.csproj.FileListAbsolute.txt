@@ -1,0 +1,48 @@
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح_المكتب.DeskTop.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح_المكتب.Properties.Resources.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\DESKTOP Project.csproj.GenerateResource.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\DESKTOP Project.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح المكتب.pdb
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\bin\Debug\سطح المكتب.exe.config
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\bin\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\bin\Debug\سطح المكتب.pdb
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\DESKTOP Project.csprojAssemblyReference.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح_المكتب.ThisPc.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح_المكتب.TaskManager.resources
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.exe.config
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.pdb
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csprojAssemblyReference.cache
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.DeskTop.resources
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.Properties.Resources.resources
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.TaskManager.resources
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.ThisPc.resources
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csproj.GenerateResource.cache
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح المكتب.pdb
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.exe.config
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.exe
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.pdb
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csprojAssemblyReference.cache
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.DeskTop.resources
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.Properties.Resources.resources
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.TaskManager.resources
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.ThisPc.resources
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csproj.GenerateResource.cache
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csproj.CoreCompileInputs.cache
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\سطح المكتب.exe
+E:\projest\مشاريع مستوئ ثاني\OS\GID OS Project\سطح المكتب\obj\Debug\سطح المكتب.pdb
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.exe.config
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.exe
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\bin\Debug\سطح المكتب.pdb
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csproj.AssemblyReference.cache
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.DeskTop.resources
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.Properties.Resources.resources
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.TaskManager.resources
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح_المكتب.ThisPc.resources
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csproj.GenerateResource.cache
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\DESKTOP Project.csproj.CoreCompileInputs.cache
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح المكتب.exe
+C:\Users\Mahfoud_Sa\Desktop\GID OS Project\سطح المكتب\obj\Debug\سطح المكتب.pdb

@@ -1,0 +1,10 @@
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\obj\Debug\GID DeskTop.csprojAssemblyReference.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\obj\Debug\GID DeskTop.csproj.GenerateResource.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\obj\Debug\GID DeskTop.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

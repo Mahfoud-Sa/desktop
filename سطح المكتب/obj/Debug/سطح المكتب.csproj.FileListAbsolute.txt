@@ -1,0 +1,29 @@
+H:\WindowsFormsApplication1\سطح المكتب\bin\Debug\سطح المكتب.exe.config
+H:\WindowsFormsApplication1\سطح المكتب\bin\Debug\سطح المكتب.exe
+H:\WindowsFormsApplication1\سطح المكتب\bin\Debug\سطح المكتب.pdb
+H:\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.csprojResolveAssemblyReference.cache
+H:\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح_المكتب.Form1.resources
+H:\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.csproj.GenerateResource.Cache
+H:\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.exe
+H:\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.pdb
+H:\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح_المكتب.Properties.Resources.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\bin\Debug\سطح المكتب.exe.config
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\bin\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\bin\Debug\سطح المكتب.pdb
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.csprojAssemblyReference.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح_المكتب.Properties.Resources.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.csproj.GenerateResource.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح المكتب.pdb
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication1\سطح المكتب\obj\Debug\سطح_المكتب.DeskTop.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\bin\Debug\سطح المكتب.exe.config
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\bin\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\bin\Debug\سطح المكتب.pdb
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح المكتب.csprojAssemblyReference.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح_المكتب.DeskTop.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح_المكتب.Properties.Resources.resources
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح المكتب.csproj.GenerateResource.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح المكتب.csproj.CoreCompileInputs.cache
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح المكتب.exe
+C:\Users\AlShaheen\Desktop\WindowsFormsApplication12\سطح المكتب\obj\Debug\سطح المكتب.pdb
